@@ -1,1 +1,1 @@
-# My Solution for some algorithm contest
+# my solution for some algorithm contest
