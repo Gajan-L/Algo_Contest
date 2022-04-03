@@ -2,7 +2,7 @@
 // use two hashtables to map player with total matches and score
 // if matches == score ==> no lost;
 // if matches == score + 1 ==> only one lost;
-// could use a array to store then we do not need to sort
+// could be optimized by using a array to store then we do not need to sort
 
 class Solution {
 public:
