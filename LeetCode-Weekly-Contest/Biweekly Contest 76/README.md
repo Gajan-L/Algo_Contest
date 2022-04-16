@@ -1,4 +1,4 @@
-# Biweekly Contest 75
+# Biweekly Contest 76
 
  - Q1 Find Closest Number to Zero: https://leetcode.com/contest/biweekly-contest-76/problems/find-closest-number-to-zero/
  - Q2 Number of Ways to Buy Pens and Pencils: https://leetcode.com/contest/biweekly-contest-76/problems/number-of-ways-to-buy-pens-and-pencils/
