@@ -6,7 +6,6 @@
 
 // top-down
 class Solution {
-class Solution {
 public:
     int helper(int i, int k ,vector<vector<int>>& piles, vector<vector<int>>& dp){
         if(dp[i][k] != 0){
