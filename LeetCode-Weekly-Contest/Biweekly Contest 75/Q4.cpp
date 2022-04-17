@@ -1,5 +1,5 @@
 // Q4: Sum of Scores of Built Strings
-// the famous z-function, very similar like manacher
+// the famous z-function, very similar to manacher
 
 class Solution {
 public:
