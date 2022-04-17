@@ -7,6 +7,7 @@
 // else need cnt/3 + 1 rounds; 
 // why? just greedy assign k task one round, and modify the last two round;
 // if cnt/3 == 1, last two rounds would be 2, 2, else, last two rounds would be 3, 2.
+// time: O(nlogn), space: O(1).
 
 class Solution {
 public:
