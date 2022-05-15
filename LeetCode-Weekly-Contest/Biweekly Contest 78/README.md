@@ -1,4 +1,4 @@
-# Biweekly Contest 76
+# Biweekly Contest 78
 
  - Q1 Find the K-Beauty of a Number: https://leetcode.com/problems/find-the-k-beauty-of-a-number/
  - Q2 Number of Ways to Split Array: https://leetcode.com/problems/number-of-ways-to-split-array/
