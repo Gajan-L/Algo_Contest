@@ -1,6 +1,7 @@
 // Q2 Number of Ways to Split Array
 // prefix sum and suffix sum
-
+// time: O(n)
+// space: O(n)
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
